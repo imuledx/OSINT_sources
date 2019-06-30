@@ -1,7 +1,7 @@
 OSINT_sources
 
 
-    Collections / Tools
+    # Collections / Tools
 
   *
     Awesome OSINT 2
@@ -173,7 +173,7 @@ OSINT_sources
 
 
 
-    Blogs / Resources
+    # Blogs / Resources
 
   *
     Antivirus Event Analysis Cheat Sheet v1.7
