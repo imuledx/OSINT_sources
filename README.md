@@ -1,8 +1,10 @@
 
-credits to @paranoid_ch1ck 
 
 
-    # Collections / Tools
+
+    # credits to @paranoid_ch1ck 
+  
+  # Collections / Tools
 
   *
     Awesome OSINT 2
