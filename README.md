@@ -1,4 +1,5 @@
-OSINT_sources
+
+credits to @paranoid_ch1ck 
 
 
     # Collections / Tools
@@ -173,7 +174,7 @@ OSINT_sources
 
 
 
-    # Blogs / Resources
+   # Blogs / Resources
 
   *
     Antivirus Event Analysis Cheat Sheet v1.7
@@ -268,7 +269,7 @@ OSINT_sources
 
 
 
-    Feeds
+   # Feeds
 
   *
     Anomali Threatstream
@@ -333,7 +334,7 @@ OSINT_sources
 
 
 
-    How To
+   # How To
 
   *
     Google Dorking
@@ -359,7 +360,7 @@ OSINT_sources
 
 
 
-    Online Investigations Tracking
+   # Online Investigations Tracking
 
   *
     Hunchly
@@ -377,7 +378,7 @@ OSINT_sources
 
 
 
-    Podcasts
+   # Podcasts
 
   *
     Exploring Information Security
@@ -395,7 +396,7 @@ OSINT_sources
 
 
 
-    Organizations / Associations
+   # Organizations / Associations
 
   *
     FS-ISAC : Financial Services - Information Sharing and Analysis Center
@@ -407,7 +408,7 @@ OSINT_sources
 
 
 
-    Reading
+   # Reading
 
   *
     Book - The Cyber Threat (by Bob Gourley)
@@ -438,7 +439,7 @@ OSINT_sources
 
 
 
-    Search Engines
+   # Search Engines
 
   *
     Bing
@@ -471,7 +472,7 @@ OSINT_sources
 
 
 
-    Training / Cons
+   # Training / Cons
 
   *
     AutomatingOSINT.com
@@ -511,7 +512,7 @@ OSINT_sources
 
 
 
-    APT
+   # APT
 
   *
     APT Groups and Operations
@@ -527,7 +528,7 @@ OSINT_sources
 
 
 
-    Bitcoin
+   # Bitcoin
 
   *
     Bitcoin Block Explorer - Blockchain
@@ -539,7 +540,7 @@ OSINT_sources
 
 
 
-    Business Search
+   # Business Search
 
   *
     Arachnys Solutions /INVESTIGATOR
@@ -569,7 +570,7 @@ OSINT_sources
 
 
 
-    Court Records
+   # Court Records
 
   *
     PacerMonitor
@@ -581,7 +582,7 @@ OSINT_sources
 
 
 
-    CVE Info
+   # CVE Info
 
   *
     CVE-Search
@@ -596,7 +597,7 @@ OSINT_sources
 
 
 
-    CyberCrime
+   # CyberCrime
 
   *
     ActorTrackr
@@ -615,7 +616,7 @@ OSINT_sources
 
 
 
-    eCommerce
+   # eCommerce
 
   *
     JungleScam
@@ -624,7 +625,7 @@ OSINT_sources
 
 
 
-    Email / Username
+   # Email / Username
 
   *
     Check Usernames
@@ -663,7 +664,7 @@ OSINT_sources
 
 
 
-    Hashing
+   # Hashing
 
   *
     [EN|DE]CRYPT HASH
@@ -675,7 +676,7 @@ OSINT_sources
 
 
 
-    Honeypot Stuff
+   # Honeypot Stuff
 
   *
     foospidy/HoneyPy
@@ -693,7 +694,7 @@ OSINT_sources
 
 
 
-    IoT
+   # IoT
 
   *
     BinaryEdge
@@ -708,7 +709,7 @@ OSINT_sources
 
 
 
-    Legal
+   # Legal
 
   *
     case.law
@@ -720,7 +721,7 @@ OSINT_sources
 
 
 
-    Maritime / Radio
+   # Maritime / Radio
 
   *
     AIS Data Sources
@@ -732,7 +733,7 @@ OSINT_sources
 
 
 
-    Misc
+   # Misc
 
   *
     ATT&CK™ Navigator - Enterprise
@@ -750,7 +751,7 @@ OSINT_sources
 
 
 
-    Multimedia - Research
+   # Multimedia - Research
 
   *
     Stolen Camera Finder
@@ -765,7 +766,7 @@ OSINT_sources
 
 
 
-    Online Records Search
+   # Online Records Search
 
   *
     Black Book Online
@@ -814,7 +815,7 @@ OSINT_sources
 
 
 
-    People Search
+   # People Search
 
   *
     Classmates
@@ -875,7 +876,7 @@ OSINT_sources
 
 
 
-    Social Media Research
+   # Social Media Research
 
   *
     birdwatcher
@@ -948,7 +949,7 @@ OSINT_sources
 
 
 
-    Spam
+   # Spam
 
   *
     SpamCop
@@ -962,7 +963,7 @@ OSINT_sources
 
 
 
-    Dark Web Resources / Info
+   # Dark Web Resources / Info
 
   *
     Dark Owl (Darknet resources)
@@ -980,7 +981,7 @@ OSINT_sources
 
 
 
-    Domain / IP Research
+   # Domain / IP Research
 
   *
     Alexa Top 1 Million sites
@@ -1198,7 +1199,7 @@ OSINT_sources
 
 
 
-    Domain / IP Research - WhoIs
+   # Domain / IP Research - WhoIs
 
   *
     .edu Whois Lookup
@@ -1240,7 +1241,7 @@ OSINT_sources
 
 
 
-    Geolocation
+   # Geolocation
 
   *
     BatchGeo: Create an interactive map from your data
@@ -1277,7 +1278,7 @@ OSINT_sources
 
 
 
-    Research
+   # Research
 
   *
     8ackprotect
@@ -1406,7 +1407,7 @@ OSINT_sources
 
 
 
-    Browser Add-ons
+   # Browser Add-ons
 
   *
     Google Translate – Add-ons for Firefox
@@ -1459,7 +1460,7 @@ OSINT_sources
 
 
 
-    Live Distros
+   # Live Distros
 
   *
     Buscador OSINT VM
@@ -1475,7 +1476,7 @@ OSINT_sources
 
 
 
-    Software
+   # Software
 
   *
     aboul3la/Sublist3r
@@ -1679,7 +1680,7 @@ OSINT_sources
 
 
 
-    Stealth
+   # Stealth
 
   *
     I2P Anonymous Network
@@ -1697,7 +1698,7 @@ OSINT_sources
 
 
 
-    Tools - Visualization
+   # Tools - Visualization
 
   *
     Gephi
@@ -1709,7 +1710,7 @@ OSINT_sources
 
 
 
-    Tools - File/Website Copiers
+   # Tools - File/Website Copiers
 
   *
     HTTrack Website Copier
@@ -1721,7 +1722,7 @@ OSINT_sources
 
 
 
-    Tools - Productivity
+   # Tools - Productivity
 
   *
     Atom text editor
@@ -1750,7 +1751,7 @@ OSINT_sources
 
 
 
-    Malware - Blogs / Resources
+   # Malware - Blogs / Resources
 
   *
     BAE Systems Threat Research Blog
@@ -1783,7 +1784,7 @@ OSINT_sources
 
 
 
-    Malware - File Analysis
+   # Malware - File Analysis
 
   *
     Any Run
@@ -1861,7 +1862,7 @@ OSINT_sources
 
 
 
-    Malware - Info
+   # Malware - Info
 
   *
     Fidelis Cybersecurity Threat Advisories
@@ -1876,7 +1877,7 @@ OSINT_sources
 
 
 
-    Malware - Ransomware
+   # Malware - Ransomware
 
   *
     Free Ransomware Decryptors - Kaspersky Lab
@@ -1895,7 +1896,7 @@ OSINT_sources
 
 
 
-    Malware - Research
+   # Malware - Research
 
   *
     #totalhash - Malware Analysis Database
@@ -2010,7 +2011,7 @@ OSINT_sources
 
 
 
-    Malware - Research Software
+   # Malware - Research Software
 
   *
     github.com/urule99/jsunpack-n
@@ -2028,7 +2029,7 @@ OSINT_sources
 
 
 
-    Malware - Samples
+   # Malware - Samples
 
   *
     contagio malware dump
@@ -2043,7 +2044,7 @@ OSINT_sources
 
 
 
-    Malware - Tools
+   # Malware - Tools
 
   *
     fireeye/flare-floss
@@ -2055,7 +2056,7 @@ OSINT_sources
 
 
 
-    Red Team - Misc
+   # Red Team - Misc
 
   *
     CIRT.net - Default Passwords
@@ -2081,3 +2082,6 @@ OSINT_sources
   *
     The Hackers Arsenal Tools Portal
     <https://www.toolswatch.org/> 
+
+
+
