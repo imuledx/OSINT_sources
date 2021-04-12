@@ -1106,8 +1106,8 @@
     Neustar IP & Geolocation Lookup Tool
     <https://www.risk.neustar/resources/tools/ip-geolocation-lookup-tool>
   *
-    Neustar UltraTools - ASN Lookup Tool
-    <https://www.ultratools.com/tools>
+    DNSChecker - ASN Lookup Tool
+    <https://dnschecker.org/asn-whois-lookup.php>
   *
     Online Curl
     <https://onlinecurl.com/>
